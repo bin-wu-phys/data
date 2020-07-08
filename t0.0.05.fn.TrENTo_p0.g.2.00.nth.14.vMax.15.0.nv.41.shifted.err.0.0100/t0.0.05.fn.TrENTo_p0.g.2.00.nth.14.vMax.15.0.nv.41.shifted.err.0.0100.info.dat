@@ -1,0 +1,15 @@
+The parameters:
+              t0 = 0.05, dt = 0.05, dr = 0.1, g = 2.0, err = 0.01, fname = TrENTo_p0.dat
+              tMax = 4.0, rMax = 3.0, nr = 31, vMax = 15.0, nv = 41, nph = 40, nth = 14, procs = 8
+
+            For t0 = 0.05 to t = 0.25, it takes 2 hours 22 minutes 43.30 seconds.
+For t0 = 0.05 to t = 0.50, it takes 4 hours 29 minutes 14.00 seconds.
+For t0 = 0.05 to t = 0.75, it takes 6 hours 9 minutes 17.97 seconds.
+For t0 = 0.05 to t = 1.00, it takes 7 hours 19 minutes 46.26 seconds.
+For t0 = 0.05 to t = 1.25, it takes 8 hours 28 minutes 40.61 seconds.
+For t0 = 0.05 to t = 1.50, it takes 9 hours 45 minutes 35.22 seconds.
+For t0 = 0.05 to t = 2.00, it takes 11 hours 42 minutes 14.00 seconds.
+For t0 = 0.05 to t = 2.50, it takes 13 hours 4 minutes 59.18 seconds.
+For t0 = 0.05 to t = 3.00, it takes 14 hours 31 minutes 10.82 seconds.
+For t0 = 0.05 to t = 3.50, it takes 15 hours 54 minutes 33.32 seconds.
+For t0 = 0.05 to t = 4.00, it takes 16 hours 43 minutes 30.68 seconds.
